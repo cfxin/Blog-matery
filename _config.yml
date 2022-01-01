@@ -6,7 +6,7 @@
 title: 程不懂の博客
 subtitle: 一只程序猿的冒险之路
 description: 软件工程师 | 自动驾驶
-keywords: "软件工程师 程不懂 cfixn 自动驾驶 强化学习"
+keywords: "软件工程师 自动驾驶 强化学习"
 author: cfxin
 language: zh-CN
 timezone: 
@@ -106,7 +106,7 @@ theme: matery
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repository: git@github.com:cfxin/cfxin.github.io.git
+  repository: git@github.com:用户名/用户名.github.io.git
   branch: master
 
 # 代码高亮插件
